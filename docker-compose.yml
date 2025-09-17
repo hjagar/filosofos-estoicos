@@ -1,0 +1,5 @@
+services:
+  filosofos:
+    build: .
+    container_name: filosofos_estoicos
+    tty: true
