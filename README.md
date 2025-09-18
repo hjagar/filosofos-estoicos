@@ -13,7 +13,7 @@ Incluye un **camarero estoico** que evita bloqueos y asegura un flujo armonioso 
 
 1. Clonar este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/filosofos-estoicos.git
+   git clone https://github.com/hjagar/filosofos-estoicos.git
    cd filosofos-estoicos
 2. Construir y correr
    ```bash
